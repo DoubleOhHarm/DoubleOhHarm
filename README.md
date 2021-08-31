@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HarmHamberg
+- 👀 I’m interested in a lot!
+- 🌱 I’m currently learning Git and Github
+- 💞️ I’m looking to collaborate on few repositories that we use
+- 📫 How to reach me: mention me
